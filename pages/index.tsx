@@ -7,7 +7,7 @@ const Index: React.FC = () => {
     <div>
       <Head title="Index page" />
       <Navigation />
-      <p>Hello world</p>
+      <p>Hello Next.js</p>
       <p>Index</p>
     </div>
   )
